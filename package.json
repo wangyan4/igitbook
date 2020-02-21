@@ -1,0 +1,23 @@
+{
+  "name": "igitbook",
+  "version": "1.0.0",
+  "description": "这是一个自动化构建gitbook。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangyan4/igitbook.git"
+  },
+  "keywords": [],
+  "author": "wangyan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wangyan4/igitbook/issues"
+  },
+  "homepage": "https://github.com/wangyan4/igitbook#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
